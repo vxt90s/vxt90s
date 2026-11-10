@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 😉
 
-<!--
-**vxt90s/vxt90s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--### Hey there! 👋
 
-Here are some ideas to get you started:
+I'm **Vedansh**, a security software engineer based in India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in offensive & defensive security, malware detection, and building security tools.
+
+If an idea pops into my head—especially around automation, agentic workflows, or system security—chances are I'll build it and ship it.
+
+My main tech stack includes **Python**, **C#**, **JavaScript/TypeScript**, **Rust**, and **Linux**. My favorite tools are **Kali Linux**, **Wireshark**, and **Nmap**.
+
+I've got a bunch of pinned projects below, check it out 
+
+---
+
+### Fun Facts:
+- 🎮 Deep into gaming (Dark Souls, Elden Ring, Silent Hill) & anime
+- 🛠️ Love hardware hacking and low-level system debugging
+- 📜 Holds CompTIA Security+ & Anthropic MCP certifications
+- 🎯 Hobbies: workout, spaced repetition learning, building open-source tools
+```[cite: 1, 2, 3, 4]
+
+<ElicitationsGroup message="Here are ways to tweak this layout further:">
+  <Elicitation label="Add interactive hyperlinked badges for contact info" query="Add clean social badges (LinkedIn, Email) using Markdown buttons to my minimalist GitHub profile README."/>
+  <Elicitation label="Highlight featured open-source security projects" query="Help me write a concise featured projects section to add to this minimalist README style."/>
+</ElicitationsGroup>
