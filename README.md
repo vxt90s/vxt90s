@@ -1,7 +1,5 @@
 ## Hi there 😉
 
-<!--### Hey there! 👋
-
 I'm **Vedansh**, a security software engineer based in India.
 
 I specialize in offensive & defensive security, malware detection, and building security tools.
@@ -19,7 +17,7 @@ I've got a bunch of pinned projects below, check it out
 - 🛠️ Love hardware hacking and low-level system debugging
 - 📜 Holds CompTIA Security+ & Anthropic MCP certifications
 - 🎯 Hobbies: workout, spaced repetition learning, building open-source tools
-```[cite: 1, 2, 3, 4]
+
 
 <ElicitationsGroup message="Here are ways to tweak this layout further:">
   <Elicitation label="Add interactive hyperlinked badges for contact info" query="Add clean social badges (LinkedIn, Email) using Markdown buttons to my minimalist GitHub profile README."/>
